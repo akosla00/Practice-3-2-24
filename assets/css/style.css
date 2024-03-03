@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.Background {
+    background-color: lemonchiffon;
+    width: 700px;
+    height: 80px;
+    position: relative;
+    left: 600px;
+}
+
+#header-1 {
+    font-size:xx-large;
+    color:navy;
+}
+
+#header-2 {
+    color:purple;
+}
+
+#p1 {
+    color:pink;
+}
+
+#p2 {
+    color:skyblue;
+}
+
+.List {
+    background-color: blue;
+    color: white;
+    width: 700px;
+    height: 60px;
+    position: relative;
+    left: 600px;
+}
